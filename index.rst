@@ -18,7 +18,6 @@
    :maxdepth: 2
    
    概要
-   必要な物
    Gmailアカウントを作成
    Twitchアカウントを作成
    LINE Business アカウントを作成
@@ -27,5 +26,6 @@
    Heroku デプロイする
    LINEでWebhook URLを設定する
    StreamLabsでストリーミングする
+   スキー場に設置する
 
 .. _GitHub: https://github.com/ijnek/kicker-camera
