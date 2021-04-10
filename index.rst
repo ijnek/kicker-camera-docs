@@ -23,6 +23,7 @@
    Twitchアカウントを作成
    LINE Business アカウントを作成
    LINE Developers チャネル作成
+   LINE Official Account Manager 設定
    Heroku デプロイする
    LINEでWebhook URLを設定する
    StreamLabsでストリーミングする
