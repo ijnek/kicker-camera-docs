@@ -1,13 +1,22 @@
 LINEでWebhook URLを設定する
 ##########################################
 
-LINE Developersに戻り、
-LINE Developersコンソールで、Messaging APIチャネルの **Messaging API設定** タブをクリックします。
+LineDevelopersConsoleページ_ に戻り作成したチャネルの **Messaging API設定** を開きます。
 
-``https://{HEROKU_APP_NAME}.herokuapp.com/callback`` というURL形式で、Webhook URLを入力します。
+.. image:: /images/message_api_settei.png
 
-例：アプリ名が「kicker-camera-test-1」の場合、Webhook URLは ``https://kicker-camera-test-1.herokuapp.com/callback`` になります。
+Webhook設定まで移動します。
 
 .. image:: /images/webhook_url.png
 
-**Webhookの利用** を **有効** にします。
+``https://｛APP_NAME}.herokuapp.com/callback`` というURL形式で、Webhook URLを入力します。
+
+{APP_NAME}の部分にメモしておいたHerokuの **App name** に置き換えます。
+
+.. note::
+    上の画像は、HerokuのApp nameが「kicker-camera」だった場合のURLです。
+
+.. warning::
+    **Webhookの利用** を **有効** にします。
+
+.. _LineDevelopersConsoleページ: https://developers.line.biz/console/

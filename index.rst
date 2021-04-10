@@ -21,7 +21,8 @@
    必要な物
    Gmailアカウントを作成
    Twitchアカウントを作成
-   LINE セットアップ
+   LINE Business アカウントを作成
+   LINE Developers チャネル作成
    Heroku デプロイする
    LINEでWebhook URLを設定する
    StreamLabsでストリーミングする
