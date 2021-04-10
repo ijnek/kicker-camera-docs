@@ -3,6 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+システム構造
+==================
+
+設置カメラのセットアップは少し手間がかかります。以下のシステム構造を分かっておくと、手順が分かりやすくなります。
+
+.. image:: /images/structure.png
+
 
 セットアップ手順（パソコン）
 ================================================
