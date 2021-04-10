@@ -1,0 +1,14 @@
+必要な物
+################
+
+#. スマートフォン\
+    iPhone・Androidでの動作を確認済み
+#. 三脚\
+    スマホが固定出来る三脚が必要です。持ってない場合は Amazonの安価スマホ三脚_ がオススメ。
+#. simカード\
+    アップロード速度の早いsimが必須。また、アップロード速度はカメラを設置する場所の電波と関係しているので、simプランを組む前に、キャリアを試したい場合はプリペイドsimで試した方が良い。
+    AmazonのSoftbank10GBデータsim_ がオススメ。
+
+
+.. _Amazonの安価スマホ三脚: https://www.amazon.co.jp/gp/product/B07PVNBL74/
+.. _AmazonのSoftbank10GBデータsim: https://www.amazon.co.jp/gp/product/B07SG23VMN/
