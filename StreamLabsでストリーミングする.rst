@@ -13,6 +13,7 @@ StreamLabsでストリーミングする
 Twitchアカウントでログインします。
 
 .. image:: /images/streamlabs_1.png
+    :height: 300px
 
 ストリーミングを始める
 ***********************
@@ -20,11 +21,13 @@ Twitchアカウントでログインします。
 ストリーミングを開始します。
 
 .. image:: /images/streamlabs_2.png
+    :height: 300px
 
 
 以下3枚目の **Stream Title** はなんでも構いません。
 
 .. image:: /images/streamlabs_3.png
+    :height: 300px
 
 エラーが表示されない場合、ストリーミングが開始されています。
 
