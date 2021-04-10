@@ -3,18 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to KickerCamera's documentation!
-========================================
+
+セットアップ手順（パソコン）
+================================================
+
+セットアップにはパソコンが必要です。以下の手順で行ってください。
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
+   Gmailアカウントを作成
+   Twitchアカウントを作成
+   LINE セットアップ
+   Heroku デプロイする
+   LINEでWebhook URLを設定する
+   StreamLabsをインストール
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
